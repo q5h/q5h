@@ -1,11 +1,12 @@
 const m07.. = {
-   name : "m07",
+   name : "muhammed",
    Age : "17",
    location : "EG",
-  },
-  Contact : {
-    Discord : "Variable"
-    Twitter : "@369C"
+     
+ },
+ 
+ Contact : {
+    Discord : "Variable#0071"
+    Twitter : "369C"
   }
-}; 
---->
+};
